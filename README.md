@@ -56,7 +56,12 @@ Completed as a practical AWS learning project.
 
 ## Demonstration Video
 
-Video link will be added here.
+Watch the complete project demonstration:
+
+[![Watch the AWS Employee Purchase Approval Workflow Demo](architecture/architecture-diagram.png)]([YOUR_YOUTUBE_LINK](https://youtu.be/bVoaT2HCZ_g))
+
+This video demonstrates the AWS workflow, purchase processing,
+S3 storage, email notifications, and CloudWatch monitoring.
 
 ## Author
 
