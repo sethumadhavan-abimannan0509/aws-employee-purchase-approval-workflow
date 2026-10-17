@@ -39,6 +39,13 @@ The workflow evaluates requests according to these rules:
 6. Amazon SNS sends an email notification through the workflow.
 7. Amazon CloudWatch provides logs and monitoring.
 
+## Architecture Diagram
+
+The following diagram illustrates the AWS services used in this project
+and how they interact to process employee purchase requests.
+
+![AWS Employee Purchase Approval Workflow Architecture](architecture/architecture-diagram.png)
+
 ## Python Source Code
 
 The `src` directory contains the Python Lambda function code.
